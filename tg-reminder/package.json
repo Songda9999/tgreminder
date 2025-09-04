@@ -4,7 +4,7 @@
   "main": "bot.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "telegraf": "^4.16.3",
@@ -14,3 +14,4 @@
     "node": ">=18"
   }
 }
+
